@@ -1,4 +1,4 @@
-# Instructions to play Your-move
+# Instructions to play the game "Your move"
 # 1. Download "Your move.zip"
 # 2. Unzip it
 # 3. Click on "Your move.html", twine game will be opened on the default browser of the device
