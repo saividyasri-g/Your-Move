@@ -31,7 +31,7 @@ Creative Commons Attribution 4.0 International License inherited from EnTwine co
 
 ### Authors
 -> Sai Vidyasri Giridharan - vidya1997@gmail.com   
--> Author GitHub Link: https://github.com/saividyasri-g
+-> Author GitHub Repository Link: https://github.com/saividyasri-g/Your-Move
 
 ----
 Made with the care, help and support of friends and family.  <3
